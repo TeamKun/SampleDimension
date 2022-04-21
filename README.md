@@ -1,0 +1,2 @@
+# SampleDimension
+ForgeのDimension作成サンプル
